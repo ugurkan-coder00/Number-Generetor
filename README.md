@@ -1,2 +1,2 @@
 # Number-Generetor
-Number generation <Random>" system that I wrote with basic C++ knowledge
+Number generation system that I wrote with basic C++ knowledge
